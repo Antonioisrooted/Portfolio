@@ -278,6 +278,6 @@ img{
     padding-top: 25px;
 }
 .container-skills #work li{
-    font-size: 20px;
-    text-align: center;
+    font-size: 60px;
+    float: left;
 }
